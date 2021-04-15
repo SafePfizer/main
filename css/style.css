@@ -10,7 +10,7 @@ img{display: block;max-width: 100%;height: auto;}
 body{font-family: 'Gilroy', Helvetica, sans-serif;
     background: -o-linear-gradient(top, #0c8a90 0%, #c50b06 100%);
     background: -webkit-gradient(linear, left top, left bottom, from(#181B25), to(#545C7E));
-    background: linear-gradient(180deg, #ffffff  0%, #ffffff 100%);
+    background: linear-gradient(180deg, #5ec1fc73  0%, #ffffff 100%)
 }
 
 
@@ -263,7 +263,7 @@ header nav .lang a.active{
 .section-headline{
     border: solid 1px #000000;
     border-radius: 15px;
-    background-image: url("../img/star.jpeg");
+    background-color: #1d3696;
     text-align: center;
     font-weight: bold;
     font-size: 34px;
@@ -424,7 +424,7 @@ header nav .lang a.active{
     margin-bottom: 120px;
 }
 .breed .img-holder{
-    background-color: #1ebaf78c;
+    background-color: #fe9f2747;
     border-radius: 12px;
     overflow: hidden;
     padding: 16px;
