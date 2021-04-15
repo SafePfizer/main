@@ -6,7 +6,6 @@ img{display: block;max-width: 100%;height: auto;}
 
 
 
-
 body{font-family: 'Gilroy', Helvetica, sans-serif;
     background: -o-linear-gradient(top, #0c8a90 0%, #c50b06 100%);
     background: -webkit-gradient(linear, left top, left bottom, from(#181B25), to(#545C7E));
@@ -202,6 +201,14 @@ p#countdown-sp {
 }
 .fold .ctas a.disabled{opacity:.2;}
 .fold .ctas a:last-child{margin-right:0;}
+.col-sm-3 {
+    border-radius: 10px;
+    background-color: #ffffff;
+    padding-top: 20px;
+    text-align: center;
+    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%);
+    position: relative;
+}
 .address{
     /* padding-left: 30px; */
     width: 40%;
