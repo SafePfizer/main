@@ -266,7 +266,8 @@ p#countdown-sp {
 }
 
 div#main{
-    background-color:#ffffff5e    
+    background-color:#ffffff5e;
+    border-radius:100px;
 }
 .addresses{
     text-align: center;
