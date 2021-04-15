@@ -265,6 +265,9 @@ p#countdown-sp {
     margin-right: 6px;
 }
 
+div#main{
+    background-color:#ffffff5e    
+}
 .addresses{
     text-align: center;
     margin: 0 0 80px;
