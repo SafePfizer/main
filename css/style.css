@@ -205,6 +205,7 @@ p#countdown-sp {
     border-radius: 10px;
     background-color: #ffffff;
     padding-top: 20px;
+    margin-right: 5%;
     text-align: center;
     box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%);
     position: relative;
