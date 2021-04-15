@@ -211,6 +211,11 @@ p#countdown-sp {
     box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%);
     position: relative;
 }
+.underline{
+    display: block;
+    height: 2px;
+    background-color: #1d3696;        
+}
 .address{
     /* padding-left: 30px; */
     width: 40%;
