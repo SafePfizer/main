@@ -203,7 +203,7 @@ p#countdown-sp {
 .fold .ctas a:last-child{margin-right:0;}
 .col-sm-3 {
     border-radius: 10px;
-    background-color: #ffffff;
+    background-color: #ccecff;
     padding-top: 20px;
     margin-right: 5%;
     text-align: center;
@@ -454,7 +454,7 @@ div#main{
     margin-bottom: 120px;
 }
 .breed .img-holder{
-    background-color: #fe9f2747;
+    background-color: #ccecff;
     border-radius: 12px;
     overflow: hidden;
     padding: 16px;
