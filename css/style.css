@@ -882,7 +882,7 @@ html.no-csstransitions .home-content__main {
 @media only screen and (max-width: 768px) {
     .container{padding: 0 16px;}
     .fold .logo{}
-    .fold h2{font-size: 22px;}
+    .fold h2{font-size: 22px;text-align:center;}
     .tokenomics .pool{}
     .tokenomics .metrics h3{font-size: 14px;line-height: initial;}
     .tokenomics .metrics h4{font-size: 20px;line-height: initial;}
