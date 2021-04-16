@@ -458,6 +458,7 @@ div#main{
     border-radius: 12px;
     overflow: hidden;
     padding: 16px;
+    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%);
     font-size: 0;
     margin-bottom: 40px;
 }
