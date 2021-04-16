@@ -794,6 +794,9 @@ html.no-csstransitions .home-content__main {
     width: 100%;
     margin: 0 0 36px 0;
 }
+    img.imageBox {
+    width: 30%;
+}
     header nav{display: none;position: absolute;top: 80px;left: 0;width: 100%;background: #ffffff;padding: 0px 20px;z-index: 2;border-bottom-left-radius: 8px;border-bottom-right-radius: 8px;}
     header nav a{
     display: block;
@@ -888,6 +891,9 @@ html.no-csstransitions .home-content__main {
     .tokenomics .metrics h4{font-size: 20px;line-height: initial;}
     .section-headline{}
     .proofs a span{}
+    img.imageBox {
+    width: 30%;
+}
     .proofs a{margin: 0 0 20px 0 !important;width: 100%;}
     .community a span{}
     .community a{padding: 14px 16px;margin-right: 16px;margin-bottom: 16px;}
