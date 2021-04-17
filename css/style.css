@@ -803,6 +803,9 @@ html.no-csstransitions .home-content__main {
     width: 100%;
     margin: 0 0 36px 0;
 }
+    .center-block {
+    margin-left: 33%;
+}
     img.image-box {
     width: 30%;
 }
@@ -905,6 +908,9 @@ html.no-csstransitions .home-content__main {
     img.image-box {
     width: 30%;
 }
+    .center-block {
+    margin-left: 33%;
+}
     .proofs a{margin: 0 0 20px 0 !important;width: 100%;}
     .community a span{}
     .community a{padding: 14px 16px;margin-right: 16px;margin-bottom: 16px;}
@@ -933,6 +939,9 @@ html.no-csstransitions .home-content__main {
 }
     div#main{
     height: 240px;    
+}
+    .center-block {
+    margin-left: 30%;
 }
     .addresses{margin-bottom:40px;}
     .address .logo{
