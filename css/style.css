@@ -288,6 +288,7 @@ div#specs {
 div#main{
     background-color:#ffffff5e;
     border-radius:100px;
+    height: 290px;
 }
 .addresses{
     text-align: center;
@@ -929,6 +930,9 @@ html.no-csstransitions .home-content__main {
 }
     .address .copy-to-clipboard{
     padding: 8px 8px;
+}
+    div#main{
+    height: 240px;    
 }
     .addresses{margin-bottom:40px;}
     .address .logo{
