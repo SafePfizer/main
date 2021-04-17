@@ -961,7 +961,7 @@ html.no-csstransitions .home-content__main {
     .fold, .tokenomics, .proofs, .community, .help, .breed{margin-bottom:60px;}
     .fold .ctas a.uniswap{width: 100%;margin-bottom: 8px;}
     .fold .logo{}
-    .fold h2{}
+    .fold h2{font-size:15px;}
     .tokenomics .pool{
     padding: 30px 14px;
     font-size: 18px;
