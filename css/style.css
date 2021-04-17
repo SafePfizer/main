@@ -87,6 +87,10 @@ p#countdown-sp {
     padding-left: 30px;
 }
 
+.buy-box{
+ border: solid 1px; background-color: #fe9f27; padding: 10px; margin: 10%; border-radius: 5px;   
+}
+
 .fold h1{
     font-weight: bold;
     font-size: 42px;
