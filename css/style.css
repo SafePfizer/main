@@ -943,8 +943,12 @@ html.no-csstransitions .home-content__main {
     div#main{
     height: 240px;    
 }
-    .center-block {
-    margin-left: 30%;
+p#countdown-sp {
+    font-size: 20px;
+    margin: 5% 5% 5% 20%;
+}
+.center-block {
+    margin-left: 25%;
 }
     .addresses{margin-bottom:40px;}
     .address .logo{
